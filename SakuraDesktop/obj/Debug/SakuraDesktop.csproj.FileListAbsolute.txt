@@ -36,3 +36,43 @@ C:\Users\LifeBook A574\Desktop\New folder (2)\SakuraDesktop\SakuraDesktop\obj\De
 C:\Users\LifeBook A574\Desktop\New folder (2)\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.csproj.CopyComplete
 C:\Users\LifeBook A574\Desktop\New folder (2)\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.exe
 C:\Users\LifeBook A574\Desktop\New folder (2)\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.pdb
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\SakuraDesktop.exe.config
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\SakuraDesktop.exe
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\SakuraDesktop.pdb
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\LibVLCSharp.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\LibVLCSharp.WPF.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Buffers.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Memory.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Numerics.Vectors.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Vlc.DotNet.Core.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Vlc.DotNet.Core.Interops.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Vlc.DotNet.Forms.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Vlc.DotNet.Wpf.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\LibVLCSharp.xml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\LibVLCSharp.WPF.xml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Buffers.xml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Memory.xml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Numerics.Vectors.xml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.csprojAssemblyReference.cache
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\MainWindow.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\App.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop_MarkupCompile.cache
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop_MarkupCompile.lref
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\MainWindow.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.g.resources
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.Properties.Resources.resources
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.csproj.GenerateResource.cache
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.csproj.CoreCompileInputs.cache
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.csproj.CopyComplete
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.exe
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.pdb
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\DecaDenceStreamer.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\HomeDecaDence.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\ChangeVLCDestination.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\DecaDenceStreamer.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\HomeDecaDence.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\ChangeVLCDestination.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Newtonsoft.Json.dll
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Newtonsoft.Json.xml

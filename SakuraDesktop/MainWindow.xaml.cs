@@ -3,7 +3,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System;
 using System.IO;
-using SakuraDesktop.Animes.DecaDence;
+using SakuraDesktop.PresentationTier.Animes.DecaDence;
 
 namespace SakuraDesktop
 {
@@ -34,6 +34,7 @@ namespace SakuraDesktop
         {
             HomeDecaDence decadence = new HomeDecaDence();
             decadence.Show();
+            decadence.TransferTitle(DecaDence.Content.ToString());
             this.Hide();
         }
 

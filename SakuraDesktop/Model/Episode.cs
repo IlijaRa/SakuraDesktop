@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SakuraPlayer.Model
+namespace SakuraDesktop.Model
 {
     public class Episode
     {
@@ -12,6 +12,11 @@ namespace SakuraPlayer.Model
         /// Episode identificator
         /// </summary>
         public int Id { get; set; }
+
+        /// <summary>
+        /// Episode number
+        /// </summary>
+        public double EpisodeNumber { get; set; }
 
         /// <summary>
         /// Episode name
@@ -33,9 +38,10 @@ namespace SakuraPlayer.Model
 
         }
 
-        public Episode(int id, string episodeName, string link, string description)
+        public Episode(int id, double episodeNumber, string episodeName, string link, string description)
         {
             this.Id = id;
+            this.EpisodeNumber = episodeNumber;
             this.EpisodeName = episodeName;
             this.Link = link;
             this.Description = description;
