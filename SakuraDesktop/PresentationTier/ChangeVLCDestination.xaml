@@ -14,8 +14,8 @@
             <Image Source="/images/details/exit.png"></Image>
         </Button>
         <Label Content="Change VLC destination" HorizontalAlignment="Left" Margin="29,0,0,0" FontFamily="Century Gothic" VerticalAlignment="Top" FontSize="27" Foreground="#e9c3da" Width="337"/>
-        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,71,0,0"  FontFamily="Century Gothic" VerticalAlignment="Top" Width="380" FontSize="17" Background="#e9c3da"/>
-        <Button Content="Accept" HorizontalAlignment="Left" Margin="129,128,0,0" FontFamily="Century Gothic" VerticalAlignment="Top" Width="140" Height="40" FontSize="17" Background="#e9c3da"/>
+        <TextBox x:Name="destinationPath" HorizontalAlignment="Left" Height="28" Margin="10,71,0,0"  FontFamily="Century Gothic" VerticalAlignment="Top" Width="380" FontSize="17" Background="#e9c3da"/>
+        <Button Content="Accept" HorizontalAlignment="Left" Margin="129,128,0,0" FontFamily="Century Gothic" VerticalAlignment="Top" Width="140" Height="40" FontSize="17" Background="#e9c3da" Click="ButtonAccept"/>
         <TextBox Height="215" Margin="30,175,0,0"  FontFamily="Century Gothic" TextWrapping="Wrap" Width="337" FontSize="17.5" Background="{x:Null}" Foreground="#FFE9C3DA" BorderBrush="{x:Null}" Text="If you have installed VLC in a different location than usual, it is really important to update that path here, because videos are not gonna work. Default path is shown in a textbox above so you can check if your VLC is on the same place. If it's there do not change anything, just close this window, but if it's not, copy-paste path in this textbox." VerticalAlignment="Top" HorizontalAlignment="Left" IsEnabled="False"/>
     </Grid>
 </Window>

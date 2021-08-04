@@ -76,3 +76,11 @@ D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\ChangeVLCDestination.baml
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Newtonsoft.Json.dll
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Newtonsoft.Json.xml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\SUCCESS.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\WARNING.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\ERROR.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\SUCCESS.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\WARNING.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\ERROR.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\IncorrectVLCDestination.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\IncorrectVLCDestination.baml

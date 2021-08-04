@@ -132,11 +132,39 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="PresentationTier\MessageBoxes\ERROR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PresentationTier\MessageBoxes\IncorrectVLCDestination.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PresentationTier\MessageBoxes\SUCCESS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PresentationTier\MessageBoxes\WARNING.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\Anime.cs" />
     <Compile Include="Model\DestinationPath.cs" />
     <Compile Include="Model\Episode.cs" />
+    <Compile Include="PresentationTier\MessageBoxes\ERROR.xaml.cs">
+      <DependentUpon>ERROR.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\MessageBoxes\IncorrectVLCDestination.xaml.cs">
+      <DependentUpon>IncorrectVLCDestination.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\MessageBoxes\SUCCESS.xaml.cs">
+      <DependentUpon>SUCCESS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\MessageBoxes\WARNING.xaml.cs">
+      <DependentUpon>WARNING.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -177,6 +205,7 @@
     <Resource Include="images\logo\sakuraFlower.jpg" />
     <Resource Include="images\logo\SakuraLogo.png" />
     <Resource Include="images\templates\carbonFiber.jpg" />
+    <Resource Include="images\templates\carbonFiber400x200.jpg" />
     <Resource Include="images\templates\carbonFiber400x400.jpg" />
     <Resource Include="images\templates\carbonFiberEp.jpg" />
     <Resource Include="images\templates\FlowersAndLogo.png" />
@@ -189,6 +218,24 @@
     <Folder Include="PresentationTier\Animes\GodOfHighSchool\" />
     <Folder Include="PresentationTier\Animes\HighRiseInvasion\" />
     <Folder Include="PresentationTier\Animes\KabaneriOfTheIronFortress\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\templates\carbonFiber400x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\details\success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\templates\carbonFiberSuccess.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\templates\carbonFiberError.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\templates\carbonFiberWarning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\templates\carbonFiberIncorrectDestination.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

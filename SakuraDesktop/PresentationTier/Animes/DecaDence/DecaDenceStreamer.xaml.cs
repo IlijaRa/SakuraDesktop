@@ -1,9 +1,11 @@
 ﻿using SakuraDesktop.DataAccessTier;
 using SakuraDesktop.Model;
+using SakuraDesktop.PresentationTier.MessageBoxes;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -44,18 +46,28 @@ namespace SakuraDesktop.Animes.DecaDence
 
         public void TransferInfo(Anime anime, Episode episode)
         {
-            Title.Text = episode.EpisodeName;
-            DestinationPath destination = destinationDataAccess.GetVLCDestinationPath();
-            var control = new VlcControl();
-            this.hostE1.Child = control;
-            string path = System.IO.Path.GetFullPath(destination.Path);
+            try
+            {
+                Title.Text = episode.EpisodeName;
+                DestinationPath destination = destinationDataAccess.GetVLCDestinationPath();
+                var control = new VlcControl();
+                this.hostE1.Child = control;
+                string path = System.IO.Path.GetFullPath(destination.Path);
 
-            control.BeginInit();
-            control.VlcLibDirectory = new DirectoryInfo(path);
-            //control.VlcLibDirectory = new DirectoryInfo(@"C:\Program Files (x86)\VideoLAN\VLC");
-            control.EndInit();
+                control.BeginInit();
+                control.VlcLibDirectory = new DirectoryInfo(path);
+                //control.VlcLibDirectory = new DirectoryInfo(@"C:\Program Files (x86)\VideoLAN\VLC");
+                control.EndInit();
 
-            control.Play(new Uri(episode.Link));
+                control.Play(new Uri(episode.Link));
+            }
+            catch(Exception ex)
+            {
+                SystemSounds.Asterisk.Play();
+                IncorrectVLCDestination incorrect = new IncorrectVLCDestination();
+                incorrect.ShowDialog();
+            }
+            
         }
     }
 }

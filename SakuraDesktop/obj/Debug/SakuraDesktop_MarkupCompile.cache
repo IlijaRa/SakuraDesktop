@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\App.xaml
-4-638282052
+8165636707
 
-171072417136
+211663428019
 29287387804
-PresentationTier\Animes\DecaDence\DecaDenceStreamer.xaml;PresentationTier\Animes\DecaDence\HomeDecaDence.xaml;PresentationTier\ChangeVLCDestination.xaml;MainWindow.xaml;
+PresentationTier\Animes\DecaDence\DecaDenceStreamer.xaml;PresentationTier\Animes\DecaDence\HomeDecaDence.xaml;PresentationTier\ChangeVLCDestination.xaml;MainWindow.xaml;PresentationTier\MessageBoxes\ERROR.xaml;PresentationTier\MessageBoxes\IncorrectVLCDestination.xaml;PresentationTier\MessageBoxes\SUCCESS.xaml;PresentationTier\MessageBoxes\WARNING.xaml;
 
 False
 

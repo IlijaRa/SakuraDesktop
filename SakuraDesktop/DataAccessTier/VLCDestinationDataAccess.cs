@@ -31,9 +31,27 @@ namespace SakuraDesktop.DataAccessTier
             }
         }
 
+        public void writeInJson()
+        {
+            string json = JsonConvert.SerializeObject(destinationPaths, Formatting.Indented);
+            File.WriteAllText("VLCDestination.json", json);
+        }
+
         public DestinationPath GetVLCDestinationPath()
         {
             return destinationPaths.First();
+        }
+
+        public bool ChangeDestinationPath(string path)
+        {
+            bool isSet = false;
+
+            DestinationPath destination = destinationPaths.First();
+            destination.Path = path;
+            writeInJson();
+            isSet = true;
+
+            return isSet;
         }
     }
 }
