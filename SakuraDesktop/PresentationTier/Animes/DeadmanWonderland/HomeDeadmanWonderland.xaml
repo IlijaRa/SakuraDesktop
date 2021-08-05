@@ -100,6 +100,6 @@
                 </Style>
             </Button.Resources>
         </Button>
-        <TextBox x:Name="Textbox_title" HorizontalAlignment="Left" HorizontalContentAlignment="Center" FontFamily="Century Gothic" Height="31" Margin="79,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="269" FontSize="27" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FFE9C3DA" IsEnabled="False"/>
+        <TextBox x:Name="Textbox_title" HorizontalAlignment="Left" HorizontalContentAlignment="Center" FontFamily="Century Gothic" Height="31" Margin="42,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="343" FontSize="27" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FFE9C3DA" IsEnabled="False"/>
     </Grid>
 </Window>
