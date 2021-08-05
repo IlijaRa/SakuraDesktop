@@ -24,7 +24,7 @@ namespace SakuraDesktop.PresentationTier
     public partial class EpisodeStreamer : Window
     {
         VLCDestinationDataAccess destinationDataAccess = new VLCDestinationDataAccess();
-
+        VlcControl control = new VlcControl();
         public EpisodeStreamer()
         {
             InitializeComponent();
@@ -36,29 +36,18 @@ namespace SakuraDesktop.PresentationTier
                 this.DragMove();
         }
 
-        public void ButtonExit(object sender, RoutedEventArgs e)
-        {
-            this.Hide();
-        }
-
-        private void ButtonMinimize(object sender, RoutedEventArgs e)
-        {
-            this.WindowState = WindowState.Minimized;
-        }
-
         public void TransferInfo(Anime anime, Episode episode)
         {
             try
             {
                 Title.Text = episode.EpisodeName;
                 DestinationPath destination = destinationDataAccess.GetVLCDestinationPath();
-                var control = new VlcControl();
+                //var control = new VlcControl();
                 this.hostE1.Child = control;
                 string path = System.IO.Path.GetFullPath(destination.Path);
 
                 control.BeginInit();
                 control.VlcLibDirectory = new DirectoryInfo(path);
-                //control.VlcLibDirectory = new DirectoryInfo(@"C:\Program Files (x86)\VideoLAN\VLC");
                 control.EndInit();
 
                 control.Play(new Uri(episode.Link));
@@ -70,6 +59,17 @@ namespace SakuraDesktop.PresentationTier
                 incorrect.ShowDialog();
             }
 
+        }
+
+        public void ButtonExit(object sender, RoutedEventArgs e)
+        {
+            control.Stop();
+            this.Hide();
+        }
+
+        private void ButtonMinimize(object sender, RoutedEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
         }
     }
 }
