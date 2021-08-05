@@ -97,6 +97,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="PresentationTier\Animes\DeathParade\HomeDeathParade.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="PresentationTier\EpisodeStreamer.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -121,6 +125,9 @@
     <Compile Include="DataAccessTier\VLCDestinationDataAccess.cs" />
     <Compile Include="PresentationTier\Animes\DeadmanWonderland\HomeDeadmanWonderland.xaml.cs">
       <DependentUpon>HomeDeadmanWonderland.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\Animes\DeathParade\HomeDeathParade.xaml.cs">
+      <DependentUpon>HomeDeathParade.xaml</DependentUpon>
     </Compile>
     <Compile Include="PresentationTier\EpisodeStreamer.xaml.cs">
       <DependentUpon>EpisodeStreamer.xaml</DependentUpon>
@@ -218,7 +225,6 @@
     <Resource Include="images\templates\FlowersAndLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="PresentationTier\Animes\DeathParade\" />
     <Folder Include="PresentationTier\Animes\Erased\" />
     <Folder Include="PresentationTier\Animes\Gangsta\" />
     <Folder Include="PresentationTier\Animes\GodOfHighSchool\" />

@@ -5,6 +5,7 @@ using System;
 using System.IO;
 using SakuraDesktop.PresentationTier.Animes.DecaDence;
 using SakuraDesktop.PresentationTier.Animes.DeadmanWonderland;
+using SakuraDesktop.PresentationTier.Animes.DeathParade;
 
 namespace SakuraDesktop
 {
@@ -46,7 +47,10 @@ namespace SakuraDesktop
 
         private void ButtonDeathParade(object sender, RoutedEventArgs e)
         {
-
+            HomeDeathParade deadman = new HomeDeathParade();
+            deadman.Show();
+            deadman.TransferTitle("Death Parade");
+            this.Hide();
         }
 
         private void ButtonKabaneriOfTheIronFortress(object sender, RoutedEventArgs e)

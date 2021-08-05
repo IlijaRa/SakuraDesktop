@@ -86,3 +86,5 @@ D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\EpisodeStreamer.g.cs
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DeadmanWonderland\HomeDeadmanWonderland.baml
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\EpisodeStreamer.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DeathParade\HomeDeathParade.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DeathParade\HomeDeathParade.baml
