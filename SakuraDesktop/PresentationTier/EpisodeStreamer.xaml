@@ -19,5 +19,6 @@
 
         <WindowsFormsHost x:Name="hostE1" HorizontalAlignment="Left" Height="400" Margin="10,40,0,0" VerticalAlignment="Top" Width="780"/>
         <TextBox x:Name="Title" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="33" FontFamily="Century Gothic" Margin="118,0,0,0" TextWrapping="Wrap" FontSize="25" VerticalAlignment="Top" Width="561" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFE9C3DA" IsEnabled="False"/>
+        <Button x:Name="statusBtn" Content="Currently playing" FontFamily="Century Gothic" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="108" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFE9C3DA" Click="statusBtn_Click"/>
     </Grid>
 </Window>

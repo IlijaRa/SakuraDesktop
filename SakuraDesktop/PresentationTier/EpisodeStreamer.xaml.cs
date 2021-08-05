@@ -71,5 +71,28 @@ namespace SakuraDesktop.PresentationTier
         {
             this.WindowState = WindowState.Minimized;
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (this.WindowState == WindowState.Maximized)
+                this.WindowState = WindowState.Minimized;
+            else
+                this.WindowState = WindowState.Maximized;
+        }
+
+        private void statusBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+            if (statusBtn.Content == "Currently paused")
+            {
+                control.Play();
+                statusBtn.Content = "Currently playing";
+            }
+            else
+            {
+                control.Pause();
+                statusBtn.Content = "Currently paused";
+            }
+        }
     }
 }
