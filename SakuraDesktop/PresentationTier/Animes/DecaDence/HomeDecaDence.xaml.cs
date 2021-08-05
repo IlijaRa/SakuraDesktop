@@ -79,7 +79,7 @@ namespace SakuraDesktop.PresentationTier.Animes.DecaDence
         private void E5_Click(object sender, RoutedEventArgs e)
         {
             Anime anime = animeBusinessLogic.GetAnimeByName(Textbox_title.Text);
-            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 5.5);
+            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 5);
             DecaDenceStreamer streamer = new DecaDenceStreamer();
             streamer.TransferInfo(anime, episode);
             streamer.Show();
@@ -93,9 +93,63 @@ namespace SakuraDesktop.PresentationTier.Animes.DecaDence
             streamer.Show();
         }
 
+        private void E7_Click(object sender, RoutedEventArgs e)
+        {
+            Anime anime = animeBusinessLogic.GetAnimeByName(Textbox_title.Text);
+            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 7);
+            DecaDenceStreamer streamer = new DecaDenceStreamer();
+            streamer.TransferInfo(anime, episode);
+            streamer.Show();
+        }
+
+        private void E8_Click(object sender, RoutedEventArgs e)
+        {
+            Anime anime = animeBusinessLogic.GetAnimeByName(Textbox_title.Text);
+            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 8);
+            DecaDenceStreamer streamer = new DecaDenceStreamer();
+            streamer.TransferInfo(anime, episode);
+            streamer.Show();
+        }
+
+        private void E9_Click(object sender, RoutedEventArgs e)
+        {
+            Anime anime = animeBusinessLogic.GetAnimeByName(Textbox_title.Text);
+            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 9);
+            DecaDenceStreamer streamer = new DecaDenceStreamer();
+            streamer.TransferInfo(anime, episode);
+            streamer.Show();
+        }
+
+        private void E10_Click(object sender, RoutedEventArgs e)
+        {
+            Anime anime = animeBusinessLogic.GetAnimeByName(Textbox_title.Text);
+            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 10);
+            DecaDenceStreamer streamer = new DecaDenceStreamer();
+            streamer.TransferInfo(anime, episode);
+            streamer.Show();
+        }
+
+        private void E11_Click(object sender, RoutedEventArgs e)
+        {
+            Anime anime = animeBusinessLogic.GetAnimeByName(Textbox_title.Text);
+            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 11);
+            DecaDenceStreamer streamer = new DecaDenceStreamer();
+            streamer.TransferInfo(anime, episode);
+            streamer.Show();
+        }
+
+        private void E12_Click(object sender, RoutedEventArgs e)
+        {
+            Anime anime = animeBusinessLogic.GetAnimeByName(Textbox_title.Text);
+            Episode episode = episodeBusinessLogic.GetEpisodeByNumber(Textbox_title.Text, 12);
+            DecaDenceStreamer streamer = new DecaDenceStreamer();
+            streamer.TransferInfo(anime, episode);
+            streamer.Show();
+        }
         public void TransferTitle(string title)
         {
             Textbox_title.Text = title;
         }
+
     }
 }

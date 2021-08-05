@@ -211,10 +211,10 @@
     <Resource Include="images\templates\FlowersAndLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="PresentationTier\Animes\Another\" />
     <Folder Include="PresentationTier\Animes\DeadmanWonderland\" />
     <Folder Include="PresentationTier\Animes\DeathParade\" />
     <Folder Include="PresentationTier\Animes\Erased\" />
+    <Folder Include="PresentationTier\Animes\Gangsta\" />
     <Folder Include="PresentationTier\Animes\GodOfHighSchool\" />
     <Folder Include="PresentationTier\Animes\HighRiseInvasion\" />
     <Folder Include="PresentationTier\Animes\KabaneriOfTheIronFortress\" />

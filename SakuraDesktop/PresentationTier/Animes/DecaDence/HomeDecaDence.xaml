@@ -58,42 +58,42 @@
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="E7" Content="E7" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="226,185,507,205" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}">
+        <Button x:Name="E7" Content="E7" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="226,185,507,205" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="E7_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="E8" Content="E8" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="318,185,415,205" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}">
+        <Button x:Name="E8" Content="E8" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="318,185,415,205" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="E8_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="E9" Content="E9" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="42,272,692,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}">
+        <Button x:Name="E9" Content="E9" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="42,272,692,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="E9_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="E10" Content="E10" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="133,272,600,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}">
+        <Button x:Name="E10" Content="E10" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="133,272,600,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="E10_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="E11" Content="E11" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="226,272,507,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}">
+        <Button x:Name="E11" Content="E11" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="226,272,507,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="E11_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="E12" Content="E12" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="319,272,415,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}">
+        <Button x:Name="E12" Content="E12" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="319,272,415,118" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="E12_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
