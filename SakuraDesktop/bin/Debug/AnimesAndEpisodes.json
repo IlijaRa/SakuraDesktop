@@ -88,5 +88,95 @@
 				"Description": "l"
 			}
 		]
+	},
+	{
+		"Id": "2",
+		"AnimeName": "Deadman Wonderland",
+		"episodes": [
+			{
+				"Id": "1",
+				"EpisodeNumber": 1,
+				"EpisodeName": "Death Row Inmate",
+				"Link": "https://storage.googleapis.com/nomadic-vertex-320110/FSV_J4M148U/22aasc22_1628093168.22.0_10440.mp4?vip=212.200.65.191",
+				"Description": "a"
+			},
+			{
+				"Id": "2",
+				"EpisodeNumber": 2,
+				"EpisodeName": "Antidote (Candy)",
+				"Link": "https://storage.googleapis.com/nomadic-vertex-320110/NCB93PZBSNGE/22aasc22_1628088670.22.0_10442.mp4?vip=178.223.183.87",
+				"Description": "b"
+			},
+			{
+				"Id": "3",
+				"EpisodeNumber": 3,
+				"EpisodeName": "G Block",
+				"Link": "https://storage.googleapis.com/rising-study-320101/W4A1SGL_6OI/st22_deca-dence-episode-3.1628000691.mp4?vip=178.223.179.130",
+				"Description": "c"
+			},
+			{
+				"Id": "4",
+				"EpisodeNumber": 4,
+				"EpisodeName": "Crow Claw",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/QHY5HV9IUJU9/st23_deca-dence-episode-4.1627956449.mp4?vip=178.223.179.130",
+				"Description": "d"
+			},
+			{
+				"Id": "5",
+				"EpisodeNumber": 5,
+				"EpisodeName": "Carrion Festival",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/TXPGYJ92HU38/st23_deca-dence-episode-5.1627958152.mp4?vip=178.223.179.130",
+				"Description": "e"
+			},
+			{
+				"Id": "6",
+				"EpisodeNumber": 6,
+				"EpisodeName": "Hummingbird",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/XZKKZ1SM2HJ5/23adesc22_1627969378.22.0_143551.mp4?vip=178.223.179.130",
+				"Description": "f"
+			},
+			{
+				"Id": "7",
+				"EpisodeNumber": 7,
+				"EpisodeName": "Original Sin (Wretched Egg)",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "h"
+			},
+			{
+				"Id": "8",
+				"EpisodeNumber": 8,
+				"EpisodeName": "Chains of Freedom (Scar Chain)",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "i"
+			},
+			{
+				"Id": "9",
+				"EpisodeNumber": 9,
+				"EpisodeName": "Pro-oxidant (Worm Eater)",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "j"
+			},
+			{
+				"Id": "10",
+				"EpisodeNumber": 10,
+				"EpisodeName": "Caretaker (Undertaker)",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "k"
+			},
+			{
+				"Id": "11",
+				"EpisodeNumber": 11,
+				"EpisodeName": "GIG of Despair",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			},
+			{
+				"Id": "12",
+				"EpisodeNumber": 12,
+				"EpisodeName": "Relief (Grateful Dead)",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			}
+		]
 	}
 ]

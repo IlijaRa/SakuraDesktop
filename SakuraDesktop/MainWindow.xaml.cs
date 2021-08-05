@@ -4,6 +4,7 @@ using System.Windows.Input;
 using System;
 using System.IO;
 using SakuraDesktop.PresentationTier.Animes.DecaDence;
+using SakuraDesktop.PresentationTier.Animes.DeadmanWonderland;
 
 namespace SakuraDesktop
 {
@@ -34,7 +35,7 @@ namespace SakuraDesktop
         {
             HomeDecaDence decadence = new HomeDecaDence();
             decadence.Show();
-            decadence.TransferTitle(DecaDence.Content.ToString());
+            decadence.TransferTitle("Deca-Dence");
             this.Hide();
         }
 
@@ -60,7 +61,10 @@ namespace SakuraDesktop
 
         private void ButtonDeadmanWonderland(object sender, RoutedEventArgs e)
         {
-
+            HomeDeadmanWonderland deadman = new HomeDeadmanWonderland();
+            deadman.Show();
+            deadman.TransferTitle("Deadman Wonderland");
+            this.Hide();
         }
 
         private void ButtonErased(object sender, RoutedEventArgs e)

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\App.xaml
-8165636707
+9-267963312
 
-22821068652
+23-1370018851
 29287387804
-PresentationTier\Animes\DecaDence\DecaDenceStreamer.xaml;PresentationTier\Animes\DecaDence\HomeDecaDence.xaml;PresentationTier\ChangeVLCDestination.xaml;MainWindow.xaml;PresentationTier\MessageBoxes\ERROR.xaml;PresentationTier\MessageBoxes\IncorrectVLCDestination.xaml;PresentationTier\MessageBoxes\SUCCESS.xaml;PresentationTier\MessageBoxes\WARNING.xaml;
+PresentationTier\Animes\DeadmanWonderland\HomeDeadmanWonderland.xaml;PresentationTier\EpisodeStreamer.xaml;PresentationTier\Animes\DecaDence\HomeDecaDence.xaml;PresentationTier\ChangeVLCDestination.xaml;MainWindow.xaml;PresentationTier\MessageBoxes\ERROR.xaml;PresentationTier\MessageBoxes\IncorrectVLCDestination.xaml;PresentationTier\MessageBoxes\SUCCESS.xaml;PresentationTier\MessageBoxes\WARNING.xaml;
 
 True
 

@@ -33,10 +33,21 @@ namespace SakuraDesktop.DataAccessTier
         public Episode GetEpisodeByNumber(string animeName, double episodeNumber)
         {
             Episode episode = new Episode();
-            
-            int animeIndex = animes.FindIndex(obj=> obj.AnimeName == animeName);
-            int episodeIndex = animes[animeIndex].episodes.FindIndex(obj => obj.EpisodeNumber == episodeNumber);
-            episode = animes[animeIndex].episodes[episodeIndex];
+
+            foreach (var a in animes)
+            {
+                if(a.AnimeName == animeName)
+                {
+                    foreach(var e in a.episodes)
+                    {
+                        if(e.EpisodeNumber == episodeNumber)
+                        {
+                            episode = e;
+                            break;
+                        }
+                    }
+                }
+            }
 
             return episode;
         }

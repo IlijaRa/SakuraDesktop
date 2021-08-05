@@ -93,9 +93,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="PresentationTier\Animes\DecaDence\DecaDenceStreamer.xaml">
-      <Generator>MSBuild:Compile</Generator>
+    <Page Include="PresentationTier\Animes\DeadmanWonderland\HomeDeadmanWonderland.xaml">
       <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PresentationTier\EpisodeStreamer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="PresentationTier\Animes\DecaDence\HomeDecaDence.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -115,8 +119,11 @@
     <Compile Include="DataAccessTier\AnimeDataAccess.cs" />
     <Compile Include="DataAccessTier\EpisodeDataAccess.cs" />
     <Compile Include="DataAccessTier\VLCDestinationDataAccess.cs" />
-    <Compile Include="PresentationTier\Animes\DecaDence\DecaDenceStreamer.xaml.cs">
-      <DependentUpon>DecaDenceStreamer.xaml</DependentUpon>
+    <Compile Include="PresentationTier\Animes\DeadmanWonderland\HomeDeadmanWonderland.xaml.cs">
+      <DependentUpon>HomeDeadmanWonderland.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\EpisodeStreamer.xaml.cs">
+      <DependentUpon>EpisodeStreamer.xaml</DependentUpon>
     </Compile>
     <Compile Include="PresentationTier\Animes\DecaDence\HomeDecaDence.xaml.cs">
       <DependentUpon>HomeDecaDence.xaml</DependentUpon>
@@ -211,7 +218,6 @@
     <Resource Include="images\templates\FlowersAndLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="PresentationTier\Animes\DeadmanWonderland\" />
     <Folder Include="PresentationTier\Animes\DeathParade\" />
     <Folder Include="PresentationTier\Animes\Erased\" />
     <Folder Include="PresentationTier\Animes\Gangsta\" />

@@ -18,16 +18,18 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using Vlc.DotNet.Forms;
 
-namespace SakuraDesktop.Animes.DecaDence
+namespace SakuraDesktop.PresentationTier
 {
-    public partial class DecaDenceStreamer : Window
+    
+    public partial class EpisodeStreamer : Window
     {
         VLCDestinationDataAccess destinationDataAccess = new VLCDestinationDataAccess();
 
-        public DecaDenceStreamer()
+        public EpisodeStreamer()
         {
             InitializeComponent();
         }
+
         private void Window_MouseDown(object sender, MouseButtonEventArgs e)
         {
             if (e.ChangedButton == MouseButton.Left)
@@ -61,13 +63,13 @@ namespace SakuraDesktop.Animes.DecaDence
 
                 control.Play(new Uri(episode.Link));
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 SystemSounds.Asterisk.Play();
                 IncorrectVLCDestination incorrect = new IncorrectVLCDestination();
                 incorrect.ShowDialog();
             }
-            
+
         }
     }
 }

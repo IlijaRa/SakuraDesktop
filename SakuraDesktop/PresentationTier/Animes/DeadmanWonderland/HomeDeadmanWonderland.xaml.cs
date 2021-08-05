@@ -1,4 +1,6 @@
-﻿using System;
+﻿using SakuraDesktop.BusinessLogicTier;
+using SakuraDesktop.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,18 +13,16 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using SakuraDesktop.BusinessLogicTier;
-using SakuraDesktop.Model;
-using SakuraDesktop.PresentationTier;
 
-namespace SakuraDesktop.PresentationTier.Animes.DecaDence
+namespace SakuraDesktop.PresentationTier.Animes.DeadmanWonderland
 {
-    public partial class HomeDecaDence : Window
+
+    public partial class HomeDeadmanWonderland : Window
     {
         EpisodeBusinessLogic episodeBusinessLogic = new EpisodeBusinessLogic();
         AnimeBusinessLogic animeBusinessLogic = new AnimeBusinessLogic();
-        
-        public HomeDecaDence()
+
+        public HomeDeadmanWonderland()
         {
             InitializeComponent();
         }
@@ -150,6 +150,5 @@ namespace SakuraDesktop.PresentationTier.Animes.DecaDence
         {
             Textbox_title.Text = title;
         }
-
     }
 }

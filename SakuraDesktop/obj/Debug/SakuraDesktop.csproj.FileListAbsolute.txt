@@ -68,10 +68,8 @@ D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.csproj.Co
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.csproj.CopyComplete
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.exe
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\SakuraDesktop.pdb
-D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\DecaDenceStreamer.g.cs
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\HomeDecaDence.g.cs
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\ChangeVLCDestination.g.cs
-D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\DecaDenceStreamer.baml
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DecaDence\HomeDecaDence.baml
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\ChangeVLCDestination.baml
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\bin\Debug\Newtonsoft.Json.dll
@@ -84,3 +82,7 @@ D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Messag
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\ERROR.baml
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\IncorrectVLCDestination.g.cs
 D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\MessageBoxes\IncorrectVLCDestination.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DeadmanWonderland\HomeDeadmanWonderland.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\EpisodeStreamer.g.cs
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\Animes\DeadmanWonderland\HomeDeadmanWonderland.baml
+D:\GitRepositories\SakuraDesktop\SakuraDesktop\obj\Debug\PresentationTier\EpisodeStreamer.baml
