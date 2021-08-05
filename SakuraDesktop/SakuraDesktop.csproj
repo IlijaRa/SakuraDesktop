@@ -101,6 +101,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="PresentationTier\Animes\Gangsta\HomeGangsta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="PresentationTier\EpisodeStreamer.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -128,6 +132,9 @@
     </Compile>
     <Compile Include="PresentationTier\Animes\DeathParade\HomeDeathParade.xaml.cs">
       <DependentUpon>HomeDeathParade.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\Animes\Gangsta\HomeGangsta.xaml.cs">
+      <DependentUpon>HomeGangsta.xaml</DependentUpon>
     </Compile>
     <Compile Include="PresentationTier\EpisodeStreamer.xaml.cs">
       <DependentUpon>EpisodeStreamer.xaml</DependentUpon>
@@ -226,7 +233,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PresentationTier\Animes\Erased\" />
-    <Folder Include="PresentationTier\Animes\Gangsta\" />
     <Folder Include="PresentationTier\Animes\GodOfHighSchool\" />
     <Folder Include="PresentationTier\Animes\HighRiseInvasion\" />
     <Folder Include="PresentationTier\Animes\KabaneriOfTheIronFortress\" />

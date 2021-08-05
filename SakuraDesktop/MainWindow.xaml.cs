@@ -6,6 +6,7 @@ using System.IO;
 using SakuraDesktop.PresentationTier.Animes.DecaDence;
 using SakuraDesktop.PresentationTier.Animes.DeadmanWonderland;
 using SakuraDesktop.PresentationTier.Animes.DeathParade;
+using SakuraDesktop.PresentationTier.Animes.Gangsta;
 
 namespace SakuraDesktop
 {
@@ -34,9 +35,9 @@ namespace SakuraDesktop
 
         private void ButtonDecaDence(object sender, RoutedEventArgs e)
         {
-            HomeDecaDence decadence = new HomeDecaDence();
-            decadence.Show();
-            decadence.TransferTitle("Deca-Dence");
+            HomeDecaDence home = new HomeDecaDence();
+            home.Show();
+            home.TransferTitle("Deca-Dence");
             this.Hide();
         }
 
@@ -47,9 +48,9 @@ namespace SakuraDesktop
 
         private void ButtonDeathParade(object sender, RoutedEventArgs e)
         {
-            HomeDeathParade deadman = new HomeDeathParade();
-            deadman.Show();
-            deadman.TransferTitle("Death Parade");
+            HomeDeathParade home = new HomeDeathParade();
+            home.Show();
+            home.TransferTitle("Death Parade");
             this.Hide();
         }
 
@@ -60,14 +61,17 @@ namespace SakuraDesktop
 
         private void ButtonGangsta(object sender, RoutedEventArgs e)
         {
-
+            HomeGangsta home = new HomeGangsta();
+            home.Show();
+            home.TransferTitle("Gangsta");
+            this.Hide();
         }
 
         private void ButtonDeadmanWonderland(object sender, RoutedEventArgs e)
         {
-            HomeDeadmanWonderland deadman = new HomeDeadmanWonderland();
-            deadman.Show();
-            deadman.TransferTitle("Deadman Wonderland");
+            HomeDeadmanWonderland home = new HomeDeadmanWonderland();
+            home.Show();
+            home.TransferTitle("Deadman Wonderland");
             this.Hide();
         }
 

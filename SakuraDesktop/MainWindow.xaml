@@ -141,7 +141,7 @@
                     </Button.Resources>
                 </Button>
 
-                <Button Name="Gangsta" Content="Another" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="0,0,7,5" Height="50" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="ButtonGangsta">
+                <Button Name="Gangsta" Content="Gangsta" FontFamily="Century Gothic" Foreground="#e9c3da" BorderThickness="3" Margin="0,0,7,5" Height="50" FontSize="15" BorderBrush="#FFE9C3DA" Background="{x:Null}" Click="ButtonGangsta">
                     <Button.Resources>
                         <Style TargetType="{x:Type Border}">
                             <Setter Property="CornerRadius" Value="10"/>
