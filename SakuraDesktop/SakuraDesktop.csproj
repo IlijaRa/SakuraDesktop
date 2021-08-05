@@ -105,6 +105,22 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="PresentationTier\Animes\GodOfHighSchool\HomeTheGodOfHighSchool.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PresentationTier\Animes\HighRiseInvasion\HomeHighRiseInvasion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PresentationTier\Animes\KabaneriOfTheIronFortress\HomeKabaneriOfTheIronFortress.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PresentationTier\Animes\TerrorInResonance\HomeTerrorInResonance.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="PresentationTier\EpisodeStreamer.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -135,6 +151,18 @@
     </Compile>
     <Compile Include="PresentationTier\Animes\Gangsta\HomeGangsta.xaml.cs">
       <DependentUpon>HomeGangsta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\Animes\GodOfHighSchool\HomeTheGodOfHighSchool.xaml.cs">
+      <DependentUpon>HomeTheGodOfHighSchool.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\Animes\HighRiseInvasion\HomeHighRiseInvasion.xaml.cs">
+      <DependentUpon>HomeHighRiseInvasion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\Animes\KabaneriOfTheIronFortress\HomeKabaneriOfTheIronFortress.xaml.cs">
+      <DependentUpon>HomeKabaneriOfTheIronFortress.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationTier\Animes\TerrorInResonance\HomeTerrorInResonance.xaml.cs">
+      <DependentUpon>HomeTerrorInResonance.xaml</DependentUpon>
     </Compile>
     <Compile Include="PresentationTier\EpisodeStreamer.xaml.cs">
       <DependentUpon>EpisodeStreamer.xaml</DependentUpon>
@@ -231,12 +259,7 @@
     <Resource Include="images\templates\carbonFiberEp.jpg" />
     <Resource Include="images\templates\FlowersAndLogo.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="PresentationTier\Animes\Erased\" />
-    <Folder Include="PresentationTier\Animes\GodOfHighSchool\" />
-    <Folder Include="PresentationTier\Animes\HighRiseInvasion\" />
-    <Folder Include="PresentationTier\Animes\KabaneriOfTheIronFortress\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Resource Include="images\templates\carbonFiber400x300.jpg" />
   </ItemGroup>

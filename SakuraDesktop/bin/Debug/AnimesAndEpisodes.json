@@ -365,5 +365,365 @@
 				"Description": "l"
 			}
 		]
+	},
+	{
+		"Id": "5",
+		"AnimeName": "The God Of High School",
+		"episodes": [
+			{
+				"Id": "1",
+				"EpisodeNumber": 1,
+				"EpisodeName": "set up/stand up",
+				"Link": "https://storage.googleapis.com/nomadic-vertex-320110/OI742N2SXYKA/st22_the-god-of-high-school-episode-1.1628093573.mp4?vip=109.93.148.110",
+				"Description": "a"
+			},
+			{
+				"Id": "2",
+				"EpisodeNumber": 2,
+				"EpisodeName": "renewal/soul",
+				"Link": "https://storage.googleapis.com/nomadic-vertex-320110/NCB93PZBSNGE/22aasc22_1628088670.22.0_10442.mp4?vip=178.223.183.87",
+				"Description": "b"
+			},
+			{
+				"Id": "3",
+				"EpisodeNumber": 3,
+				"EpisodeName": "wisdom/kingdom",
+				"Link": "https://storage.googleapis.com/rising-study-320101/W4A1SGL_6OI/st22_deca-dence-episode-3.1628000691.mp4?vip=178.223.179.130",
+				"Description": "c"
+			},
+			{
+				"Id": "4",
+				"EpisodeNumber": 4,
+				"EpisodeName": "marriage/bonds",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/QHY5HV9IUJU9/st23_deca-dence-episode-4.1627956449.mp4?vip=178.223.179.130",
+				"Description": "d"
+			},
+			{
+				"Id": "5",
+				"EpisodeNumber": 5,
+				"EpisodeName": "ronde/hound",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/TXPGYJ92HU38/st23_deca-dence-episode-5.1627958152.mp4?vip=178.223.179.130",
+				"Description": "e"
+			},
+			{
+				"Id": "6",
+				"EpisodeNumber": 6,
+				"EpisodeName": "fear/SIX",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/XZKKZ1SM2HJ5/23adesc22_1627969378.22.0_143551.mp4?vip=178.223.179.130",
+				"Description": "f"
+			},
+			{
+				"Id": "7",
+				"EpisodeNumber": 7,
+				"EpisodeName": "anima/force",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "h"
+			},
+			{
+				"Id": "8",
+				"EpisodeNumber": 8,
+				"EpisodeName": "close/friend",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "i"
+			},
+			{
+				"Id": "9",
+				"EpisodeNumber": 9,
+				"EpisodeName": "curse/cornered",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "j"
+			},
+			{
+				"Id": "10",
+				"EpisodeNumber": 10,
+				"EpisodeName": "oath/meaning",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "k"
+			},
+			{
+				"Id": "11",
+				"EpisodeNumber": 11,
+				"EpisodeName": "lay/key",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			},
+			{
+				"Id": "12",
+				"EpisodeNumber": 12,
+				"EpisodeName": "FOX/GOD",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			},
+			{
+				"Id": "13",
+				"EpisodeNumber": 13,
+				"EpisodeName": "GOD/GOD",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			}
+		]
+	},
+	{
+		"Id": "6",
+		"AnimeName": "Kabaneri of the Iron Fortress",
+		"episodes": [
+			{
+				"Id": "1",
+				"EpisodeNumber": 1,
+				"EpisodeName": "Frightened Corpse",
+				"Link": "https://storage.googleapis.com/serious-cat-320705/YOPI16IFNJ7B/st23_koutetsujou-no-kabaneri-episode-1.1627992203.mp4?vip=109.93.148.110",
+				"Description": "a"
+			},
+			{
+				"Id": "2",
+				"EpisodeNumber": 2,
+				"EpisodeName": "Never-Ending Night",
+				"Link": "https://storage.googleapis.com/nomadic-vertex-320110/NCB93PZBSNGE/22aasc22_1628088670.22.0_10442.mp4?vip=178.223.183.87",
+				"Description": "b"
+			},
+			{
+				"Id": "3",
+				"EpisodeNumber": 3,
+				"EpisodeName": "Prayer Offer",
+				"Link": "https://storage.googleapis.com/rising-study-320101/W4A1SGL_6OI/st22_deca-dence-episode-3.1628000691.mp4?vip=178.223.179.130",
+				"Description": "c"
+			},
+			{
+				"Id": "4",
+				"EpisodeNumber": 4,
+				"EpisodeName": "Flowing Blood",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/QHY5HV9IUJU9/st23_deca-dence-episode-4.1627956449.mp4?vip=178.223.179.130",
+				"Description": "d"
+			},
+			{
+				"Id": "5",
+				"EpisodeNumber": 5,
+				"EpisodeName": "Inescapable Darkness",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/TXPGYJ92HU38/st23_deca-dence-episode-5.1627958152.mp4?vip=178.223.179.130",
+				"Description": "e"
+			},
+			{
+				"Id": "6",
+				"EpisodeNumber": 6,
+				"EpisodeName": "Gathering Light",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/XZKKZ1SM2HJ5/23adesc22_1627969378.22.0_143551.mp4?vip=178.223.179.130",
+				"Description": "f"
+			},
+			{
+				"Id": "7",
+				"EpisodeNumber": 7,
+				"EpisodeName": "Begging The Heavens",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "h"
+			},
+			{
+				"Id": "8",
+				"EpisodeNumber": 8,
+				"EpisodeName": "The Silent Hunter",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "i"
+			},
+			{
+				"Id": "9",
+				"EpisodeNumber": 9,
+				"EpisodeName": "Fang of Ruin",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "j"
+			},
+			{
+				"Id": "10",
+				"EpisodeNumber": 10,
+				"EpisodeName": "The Attacking Weak",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "k"
+			},
+			{
+				"Id": "11",
+				"EpisodeNumber": 11,
+				"EpisodeName": "Burning Life",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			},
+			{
+				"Id": "12",
+				"EpisodeNumber": 12,
+				"EpisodeName": "Iron Fortress",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			}
+		]
+	},
+	{
+		"Id": "7",
+		"AnimeName": "High Rise Invasion",
+		"episodes": [
+			{
+				"Id": "1",
+				"EpisodeNumber": 1,
+				"EpisodeName": "I Just Don't Get This World",
+				"Link": "https://storage.googleapis.com/model-framing-321509/GQJWFBTUUO3/st24_tenkuu-shinpan-episode-1.mp4",
+				"Description": "a"
+			},
+			{
+				"Id": "2",
+				"EpisodeNumber": 2,
+				"EpisodeName": "I've Found a New Goal",
+				"Link": "https://storage.googleapis.com/nomadic-vertex-320110/NCB93PZBSNGE/22aasc22_1628088670.22.0_10442.mp4?vip=178.223.183.87",
+				"Description": "b"
+			},
+			{
+				"Id": "3",
+				"EpisodeNumber": 3,
+				"EpisodeName": "I'm Sorry, Mayuko Nise",
+				"Link": "https://storage.googleapis.com/rising-study-320101/W4A1SGL_6OI/st22_deca-dence-episode-3.1628000691.mp4?vip=178.223.179.130",
+				"Description": "c"
+			},
+			{
+				"Id": "4",
+				"EpisodeNumber": 4,
+				"EpisodeName": "I Won't Give in to This World",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/QHY5HV9IUJU9/st23_deca-dence-episode-4.1627956449.mp4?vip=178.223.179.130",
+				"Description": "d"
+			},
+			{
+				"Id": "5",
+				"EpisodeNumber": 5,
+				"EpisodeName": "That's an Incredible Ultimate Weapon",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/TXPGYJ92HU38/st23_deca-dence-episode-5.1627958152.mp4?vip=178.223.179.130",
+				"Description": "e"
+			},
+			{
+				"Id": "6",
+				"EpisodeNumber": 6,
+				"EpisodeName": "If I Become a Perfect God",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/XZKKZ1SM2HJ5/23adesc22_1627969378.22.0_143551.mp4?vip=178.223.179.130",
+				"Description": "f"
+			},
+			{
+				"Id": "7",
+				"EpisodeNumber": 7,
+				"EpisodeName": "I Will End This Realm",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "h"
+			},
+			{
+				"Id": "8",
+				"EpisodeNumber": 8,
+				"EpisodeName": "I've Cast Off My Humanity, But That's Fine",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "i"
+			},
+			{
+				"Id": "9",
+				"EpisodeNumber": 9,
+				"EpisodeName": "Which Of Us Will Live a Cool Life?",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "j"
+			},
+			{
+				"Id": "10",
+				"EpisodeNumber": 10,
+				"EpisodeName": "Our Enemy is One Who Desires Chaos",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "k"
+			},
+			{
+				"Id": "11",
+				"EpisodeNumber": 11,
+				"EpisodeName": "I AM Justice!",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			},
+			{
+				"Id": "12",
+				"EpisodeNumber": 12,
+				"EpisodeName": "This is a High-Rise Invasion",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			}
+		]
+	},
+	{
+		"Id": "8",
+		"AnimeName": "Terror in Resonance",
+		"episodes": [
+			{
+				"Id": "1",
+				"EpisodeNumber": 1,
+				"EpisodeName": "Falling",
+				"Link": "https://storage.googleapis.com/tidal-solstice-321513/E1DQ3VSLERQ9/st23_zankyou-no-terror-episode-1.1628090165.mp4?vip=109.93.148.110",
+				"Description": "a"
+			},
+			{
+				"Id": "2",
+				"EpisodeNumber": 2,
+				"EpisodeName": "Call & Response",
+				"Link": "https://storage.googleapis.com/nomadic-vertex-320110/NCB93PZBSNGE/22aasc22_1628088670.22.0_10442.mp4?vip=178.223.183.87",
+				"Description": "b"
+			},
+			{
+				"Id": "3",
+				"EpisodeNumber": 3,
+				"EpisodeName": "Search & Destroy",
+				"Link": "https://storage.googleapis.com/rising-study-320101/W4A1SGL_6OI/st22_deca-dence-episode-3.1628000691.mp4?vip=178.223.179.130",
+				"Description": "c"
+			},
+			{
+				"Id": "4",
+				"EpisodeNumber": 4,
+				"EpisodeName": "Break Through",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/QHY5HV9IUJU9/st23_deca-dence-episode-4.1627956449.mp4?vip=178.223.179.130",
+				"Description": "d"
+			},
+			{
+				"Id": "5",
+				"EpisodeNumber": 5,
+				"EpisodeName": "Hide & Seek",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/TXPGYJ92HU38/st23_deca-dence-episode-5.1627958152.mp4?vip=178.223.179.130",
+				"Description": "e"
+			},
+			{
+				"Id": "6",
+				"EpisodeNumber": 6,
+				"EpisodeName": "Ready or Not",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/XZKKZ1SM2HJ5/23adesc22_1627969378.22.0_143551.mp4?vip=178.223.179.130",
+				"Description": "f"
+			},
+			{
+				"Id": "7",
+				"EpisodeNumber": 7,
+				"EpisodeName": "Deuce",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "h"
+			},
+			{
+				"Id": "8",
+				"EpisodeNumber": 8,
+				"EpisodeName": "My Fair Lady",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "i"
+			},
+			{
+				"Id": "9",
+				"EpisodeNumber": 9,
+				"EpisodeName": "Highs & Lows",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "j"
+			},
+			{
+				"Id": "10",
+				"EpisodeNumber": 10,
+				"EpisodeName": "Helter Skelter",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "k"
+			},
+			{
+				"Id": "11",
+				"EpisodeNumber": 11,
+				"EpisodeName": "VON",
+				"Link": "https://storage.googleapis.com/wise-cycling-320009/OM_AJCHEAJ6M/23adesc22_1627962475.22.0_142324.mp4?vip=178.223.179.130",
+				"Description": "l"
+			}
+		]
 	}
 ]

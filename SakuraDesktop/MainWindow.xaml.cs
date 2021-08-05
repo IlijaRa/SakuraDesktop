@@ -7,6 +7,10 @@ using SakuraDesktop.PresentationTier.Animes.DecaDence;
 using SakuraDesktop.PresentationTier.Animes.DeadmanWonderland;
 using SakuraDesktop.PresentationTier.Animes.DeathParade;
 using SakuraDesktop.PresentationTier.Animes.Gangsta;
+using SakuraDesktop.PresentationTier.Animes.GodOfHighSchool;
+using SakuraDesktop.PresentationTier.Animes.KabaneriOfTheIronFortress;
+using SakuraDesktop.PresentationTier.Animes.HighRiseInvasion;
+using SakuraDesktop.PresentationTier.Animes.TerrorInResonance;
 
 namespace SakuraDesktop
 {
@@ -43,7 +47,10 @@ namespace SakuraDesktop
 
         private void ButtonGOHS(object sender, RoutedEventArgs e)
         {
-
+            HomeTheGodOfHighSchool home = new HomeTheGodOfHighSchool();
+            home.Show();
+            home.TransferTitle("The God Of High School");
+            this.Hide();
         }
 
         private void ButtonDeathParade(object sender, RoutedEventArgs e)
@@ -56,7 +63,10 @@ namespace SakuraDesktop
 
         private void ButtonKabaneriOfTheIronFortress(object sender, RoutedEventArgs e)
         {
-
+            HomeKabaneriOfTheIronFortress home = new HomeKabaneriOfTheIronFortress();
+            home.Show();
+            home.TransferTitle("Kabaneri of the Iron Fortress");
+            this.Hide();
         }
 
         private void ButtonGangsta(object sender, RoutedEventArgs e)
@@ -75,14 +85,20 @@ namespace SakuraDesktop
             this.Hide();
         }
 
-        private void ButtonErased(object sender, RoutedEventArgs e)
+        private void ButtonTerrorInResonance(object sender, RoutedEventArgs e)
         {
-
+            HomeTerrorInResonance home = new HomeTerrorInResonance();
+            home.Show();
+            home.TransferTitle("Terror in Resonance");
+            this.Hide();
         }
 
         private void ButtonHighRiseInvasion(object sender, RoutedEventArgs e)
         {
-
+            HomeHighRiseInvasion home = new HomeHighRiseInvasion();
+            home.Show();
+            home.TransferTitle("High Rise Invasion");
+            this.Hide();
         }
 
         private void ButtonChangeVLCDestionation(object sender, RoutedEventArgs e)

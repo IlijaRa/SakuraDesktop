@@ -156,7 +156,7 @@
                     </Button.Resources>
                 </Button>
 
-                <Button Name="Erased" Content="Erased" FontFamily="Century Gothic" FontSize="15" Foreground="#e9c3da" BorderThickness="3" Height="50" Margin="0,0,7,5" Background="{x:Null}" BorderBrush="#FFE9C3DA" Click="ButtonErased">
+                <Button Name="TerrorInResonance" Content="Terror in resonance" FontFamily="Century Gothic" FontSize="15" Foreground="#e9c3da" BorderThickness="3" Height="50" Margin="0,0,7,5" Background="{x:Null}" BorderBrush="#FFE9C3DA" Click="ButtonTerrorInResonance">
                     <Button.Resources>
                         <Style TargetType="{x:Type Border}">
                             <Setter Property="CornerRadius" Value="10"/>
